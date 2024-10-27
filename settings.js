@@ -6,7 +6,7 @@
 const fs = require("fs");
 const chalk = require("chalk");
 
-global.nomorOwner = "6289684316740,6289656277900";
+global.nomorOwner = "6289684316740";
 global.namaBot = "R,K,AxRIAN Botzz";
 global.namaowner = "RIANxR,K,A";
 global.packname = `By ${R,K,AxRIAN Botzz}`;
