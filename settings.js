@@ -6,12 +6,12 @@
 const fs = require("fs");
 const chalk = require("chalk");
 
-global.nomorOwner = "6285878774454";
-global.namaBot = "XyPushV2";
-global.namaowner = "Xiety";
-global.packname = `By ${namaBot}`;
-global.author = "YT : XieTy";
+global.nomorOwner = "6289684316740,6289656277900";
+global.namaBot = "R,K,AxRIAN Botzz";
+global.namaowner = "RIANxR,K,A";
+global.packname = `By ${R,K,AxRIAN Botzz}`;
 global.sessionName = "session";
+global.author = "YT : XieTy";
 global.wm = "XyPush";
 global.themeemoji = "•";
 global.anticall = true;
